@@ -5,7 +5,7 @@
     {
         Console.WriteLine ("У заданного числа третьей цифры нет");
     }
-        else
+    else
     {
         string i = num.ToString();
         Console.WriteLine (i[2]); 
