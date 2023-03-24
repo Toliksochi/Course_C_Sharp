@@ -1,4 +1,4 @@
-﻿void  Print (int [] arr)
+﻿void Print (int [] arr)
 {
     int size = arr.Length;
 
